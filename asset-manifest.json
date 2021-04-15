@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlgoVisualiser/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/AlgoVisualiser/static/js/main.d42903bc.chunk.js",
+    "main.js.map": "/AlgoVisualiser/static/js/main.d42903bc.chunk.js.map",
+    "runtime-main.js": "/AlgoVisualiser/static/js/runtime-main.8988660a.js",
+    "runtime-main.js.map": "/AlgoVisualiser/static/js/runtime-main.8988660a.js.map",
+    "static/js/2.bd9ed43b.chunk.js": "/AlgoVisualiser/static/js/2.bd9ed43b.chunk.js",
+    "static/js/2.bd9ed43b.chunk.js.map": "/AlgoVisualiser/static/js/2.bd9ed43b.chunk.js.map",
+    "static/js/3.9070ad43.chunk.js": "/AlgoVisualiser/static/js/3.9070ad43.chunk.js",
+    "static/js/3.9070ad43.chunk.js.map": "/AlgoVisualiser/static/js/3.9070ad43.chunk.js.map",
+    "index.html": "/AlgoVisualiser/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/AlgoVisualiser/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bd9ed43b.chunk.js.LICENSE.txt": "/AlgoVisualiser/static/js/2.bd9ed43b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AlgoVisualiser/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8988660a.js",
+    "static/js/2.bd9ed43b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.d42903bc.chunk.js"
+  ]
+}
